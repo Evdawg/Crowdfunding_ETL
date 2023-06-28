@@ -38,7 +38,9 @@ This project is to practice building an ETL pipeline using the cumulative method
 
 ## Collaborators:
 Jo Ann M.
+
 Timothy S.
+
 Evan S.
 
 
