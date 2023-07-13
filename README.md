@@ -3,7 +3,7 @@ Project 2: ETL Methods
 
 Group 6
 
-Graded __/100
+Graded 95/100
 
 
 ## Project Description:
